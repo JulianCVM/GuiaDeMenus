@@ -9,3 +9,7 @@ La comida china es bastante famosa debido a la gran variedad de productos y anim
 ## Bebidas Recomendadas
 - Agua
 - Gaseosa
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con pan artesanal para una experiencia completa.
