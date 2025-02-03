@@ -10,3 +10,7 @@ Las carnes son famosas a nivel mundial por su excelente sabor y las grandes dive
 - Cerveza
 - Agua
 - Gaseosa sin azucar
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con pan artesanal para una experiencia completa.
