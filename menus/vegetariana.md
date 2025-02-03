@@ -5,3 +5,6 @@ La comida vegetariana es famosa a nivel global por sus sabores frescos, verdes y
 
 ## Platos Principales
 - **Ensalada**: Una buena ensalada de verduras es el mejor plato que se puede probar con cualquier tipo de verdura.
+
+## Bebidas Recomendadas
+- Agua
