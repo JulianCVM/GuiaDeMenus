@@ -5,3 +5,6 @@ La comida japonesa es muy famosa por ser muy unica y cultural, siendo de las gas
 
 ## Platos Principales
 - **Sushi**: Sushi en base de pescado para sushi fino, bien conservado, arroz para sushi, onigiri 100% natural.
+
+## Bebidas Recomendadas
+- Sake
