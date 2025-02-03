@@ -5,3 +5,6 @@
 
 ## Platos Principales
 - **Curry**: El curry es uno de los aderesos más famosos de mundo proveniente de la india, realizado en base de vegetales frescos picados, verduras finas, vinagre, aceite, todo bien concervado.
+
+## Bebidas Recomendadas
+- Agua
