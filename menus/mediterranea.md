@@ -5,3 +5,7 @@ La comida mediterránea es muy famosa a nivel mundial por sus sabores frescos de
 
 ## Platos Principales
 - **Mariscos**: Los mariscos son muy frescos y delicios siendo acompañados de su buen adereso, sason, sal y limón.
+
+## Bebidas Recomendadas
+- Agua
+- Gaseosa
