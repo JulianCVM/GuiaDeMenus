@@ -10,3 +10,6 @@ La cocina mexicana es muy conocida por ser de sabores fuertes y picantes.
 - Whisky
 - Tequila
 - Agua
+
+## Consejos
+- Mantenerse bien hidratado en caso de consumir mucho picante.
