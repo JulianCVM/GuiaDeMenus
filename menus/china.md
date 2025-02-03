@@ -6,3 +6,6 @@ La comida china es bastante famosa debido a la gran variedad de productos y anim
 ## Platos Principales
 - **Arroz**: El arroz es el producto principal de china y ya.
 
+## Bebidas Recomendadas
+- Agua
+- Gaseosa
