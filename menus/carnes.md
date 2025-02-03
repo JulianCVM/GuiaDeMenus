@@ -5,3 +5,8 @@ Las carnes son famosas a nivel mundial por su excelente sabor y las grandes dive
 
 ## Platos Principales
 - **Asado**: No hay mejor plato principal que un buen asado de carne, donde puede ser cualquier tipo de carne la que se prepare acá.
+
+## Bebidas Recomendadas
+- Cerveza
+- Agua
+- Gaseosa sin azucar
