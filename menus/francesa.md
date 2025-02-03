@@ -8,3 +8,7 @@ La comida francesa es conocida en el mundo por sus sabores dulces y romanticos.
 
 ## Bebidas Recomendadas
 - Vino añejado del siglo VII
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con pan artesanal para una experiencia completa.
