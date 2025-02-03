@@ -8,3 +8,6 @@ La comida japonesa es muy famosa por ser muy unica y cultural, siendo de las gas
 
 ## Bebidas Recomendadas
 - Sake
+
+## Consejos
+- Disfrute su deliciosa comida con buena compañia.
